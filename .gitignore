@@ -1,0 +1,10 @@
+# Local & private (do NOT commit)
+.local/
+private/
+examples/
+
+# Common secrets/convenience
+.env
+*.local.sh
+config.mk
+Makefile
