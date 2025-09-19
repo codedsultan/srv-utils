@@ -113,7 +113,7 @@ Created with ❤️ by [codedsultan](https://github.com/codedsultan)
 
 If you found this project helpful, consider supporting my work:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/codedsultan)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/codesultan)
 
 ---
 
